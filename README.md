@@ -1,5 +1,4 @@
 # TIPE-optimisation-de-l-amorti-d-une-chaussure-de-sport-
-Travail d'Initiative Personnelle Encadré
 Dans le cadre du Travail d'Initiative Personnelle Encadré (TIPE), j'ai traité le sujet : optimisation de l'amorti d'un chaussure de sport. 
 Le projet se découpe en plusieurs grandes étapes : 
 - Recherches bibliographiques
